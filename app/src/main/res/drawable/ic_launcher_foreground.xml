@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Protective Health Shield -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:fillAlpha="0.35"
+        android:pathData="M54,20 C68,20 82,24 82,24 C82,54 70,72 54,86 C38,72 26,54 26,24 C26,24 40,20 54,20 Z" />
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M54,20 C68,20 82,24 82,24 C82,54 70,72 54,86 C38,72 26,54 26,24 C26,24 40,20 54,20 Z" />
+
+    <!-- Medical Cross -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,32 H60 V46 H74 V58 H60 V72 H48 V58 H34 V46 H48 Z" />
+
+    <!-- AI Pulse Waveform Line inside cross center -->
+    <path
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M37,52 L45,52 L49,43 L53,61 L58,47 L62,52 L71,52" />
+</vector>

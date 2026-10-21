@@ -1,0 +1,6 @@
+{
+  "name": "InjuryAI",
+  "description": "Smart Injury Assessment & Recovery Assistant for preliminary evaluation, emergency triage, and recovery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

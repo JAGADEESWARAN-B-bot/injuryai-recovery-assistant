@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InjuryAI</string>
+    <string name="medical_disclaimer_title">Decision-Support &amp; Educational Tool Only</string>
+    <string name="medical_disclaimer_body">InjuryAI provides preliminary decision-support and educational information. It is NOT a replacement for a doctor, radiologist, or emergency medical services. In an emergency, immediately call 911 or local emergency services.</string>
+</resources>
